@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APP_Homework2</string>
+    <string name="myhelloworld">My Hello World Program!</string>
+    <string name="title_activity_page2">page2</string>
+</resources>
